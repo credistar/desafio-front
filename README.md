@@ -1,16 +1,20 @@
-# Desafio Front-end Agrotis
+# Desafio Front-end Credistar
 
-> Desafio para ingressar como Front-end Developer na Agrotis
+> Desafio para ingressar como Front-end Developer na Credistar
 
-![Agrotis Developers Logo](images/agrotis-developers.png?raw=true "Agrotis Developers Logo")
+![CredistarLogo](https://credistar.com.br/wp-content/uploads/2020/09/fundo-branco.png "Credistar Logo")
 
-## Sobre a Agrotis e o Agrotis Developers
+## Sobre a Credistar
 
-A Agrotis é uma empresa que desde 1991 contribui com o desenvolvimento de sistemas focados para o agronegócio. Agrotis Developers é uma comunidade criada pelos times de desenvolvimento que são apaixonados por tecnologia, práticas ágeis, cerveja e muito, mas muito café. Juntos aprendemos e compartilhamos nossas experiências com o mundo (estamos no [medium](https://medium.com/agrotis-developers) também). [Aprenda mais sobre a agrotis no nosso site](https://www.agrotis.com/).
+A Credistar nasceu para mudar a realidade dos brasileiros – vamos oferecer empréstimos nas melhores taxas de juros e condições de pagamento.
+
+Vamos ajudar as pessoas a se livrarem das dívidas ruins através de crédito de qualidade. Permitimos que você use seu cartão de crédito para receber dinheiro na sua conta corrente.
+
+Nosso objetivo é incentivar o seu progresso financeiro e te ajudar a resolver seus projetos pessoais.(https://credistar.com.br).
 
 ## Sobre o desafio
 
-Você não terá data de entrega limite para essa prova, mas fique atento pois vamos avaliar mais rigorosamente seu código quanto mais demorar para entregar a partir da data em que foi feito o fork desse repositório. A ideia é simples, você terá que desenvolver um CRUD com dados falsos seguindo o protótipo abaixo.
+A ideia é simples, você terá que desenvolver um CRUD com dados falsos seguindo o protótipo abaixo.
 
 [Protótipo do Figma](https://www.figma.com/file/hIW6PYb1QZmckvukXiYaAu/Prot%C3%B3tipo-teste-Front-end?node-id=0%3A1)
 
@@ -37,7 +41,7 @@ No mais, fique a vontade para utilizar outras ferramentas que desejar.
 ## Pronto para começar o desafio?
 
 - Faça um "fork" desse repositório na sua conta do Github
-- Crie uma branch com o seu nome e sobrenome ex: `patrick-santos`
+- Crie uma branch com o seu nome e sobrenome ex: `fernanda-henriques`
 - Após completar o desafio, crie um "pull request" nesse repositório comparando a sua branch com a master
 - Receberemos uma notificação do seu pull request, faremos a avaliação da sua solução e entraremos em contato.
 
@@ -49,6 +53,6 @@ No mais, fique a vontade para utilizar outras ferramentas que desejar.
   **Sim, para que possamos saber quanto tempo você levou para executar o desafio**
 
 - Tenho mais dúvidas, com quem posso entrar em contato?
-  **Entre em contato com [Ricardo Girardi](https://github.com/girardiricardo) (Tech Lead & Front-end Developer)**
+  **Entre em contato com [Ricardo Castro](https://github.com/Lorenhaim) (Tech Lead)**
 
 **Boa sorte.** 🚀
