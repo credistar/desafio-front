@@ -56,3 +56,6 @@ No mais, fique a vontade para utilizar outras ferramentas que desejar.
   **Entre em contato com [Ricardo Castro](https://github.com/Lorenhaim) (Tech Lead)**
 
 **Boa sorte.** 🚀
+
+
+Esse desafio é baseado no desafio original da [Agrotis] (https://github.com/agrotis-io/desafio-front)
