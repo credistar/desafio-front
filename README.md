@@ -1,61 +1,29 @@
-# Desafio Front-end Credistar
+<img width="400" src="https://credistar.com.br/wp-content/uploads/2020/09/fundo-branco.png" class="jop-noMdConv">
 
-> Desafio para ingressar como Front-end Developer na Credistar
+# Teste de contratação de front-end Credistar
 
-![CredistarLogo](https://credistar.com.br/wp-content/uploads/2020/09/fundo-branco.png "Credistar Logo")
+<img src=":/a0ef708b2f364e4d800c21c1eff4f2c6" alt="2021-07-05 16:45:28.png" width="223" height="397" class="jop-noMdConv">  <img src=":/cd8930d14c8f4e1fa389b4f26fb6f968" alt="2021-07-05 16:44:56.png" width="218" height="396" class="jop-noMdConv">
 
-## Sobre a Credistar
+Este teste deve levar de 1 a 2 dias, dependendo de sua experiência.
 
-A Credistar nasceu para mudar a realidade dos brasileiros – vamos oferecer empréstimos nas melhores taxas de juros e condições de pagamento.
+## Contexto
 
-Vamos ajudar as pessoas a se livrarem das dívidas ruins através de crédito de qualidade. Permitimos que você use seu cartão de crédito para receber dinheiro na sua conta corrente.
+A Credistar precisa coletar as fotos dos clientes. Para ajudar os clientes a saber quais documentos precisam enviar, é necessário criar uma pagina como as acima. Onde um frame fica por cima da Camera marcando onde os clientes devem enviar as fotos.
+**Exemplo**:
 
-Nosso objetivo é incentivar o seu progresso financeiro e te ajudar a resolver seus projetos pessoais.(https://credistar.com.br).
+### <img src=":/95da8f90e6cc4d10bf01c81d43c66335" alt="2021-07-05 16:48:23.png" width="216" height="381" style="font-size: 15px;">
 
-## Sobre o desafio
+## O que você precisa fazer
 
-A ideia é simples, você terá que desenvolver um CRUD com dados falsos seguindo o protótipo abaixo.
+Para concluir o teste, ** você precisará **:
 
-[Protótipo do Figma](https://www.figma.com/file/hIW6PYb1QZmckvukXiYaAu/Prot%C3%B3tipo-teste-Front-end?node-id=0%3A1)
+- Criar um Projeto React do zero.
+- Incluir 3 páginas para envio de RG Frente, CNH Aberta e Selfie.
+- A Imagem salva não deve ter o Frame.
 
-## Tecnologias, frameworks e bibliotecas
+## Como enviar o código do seu aplicativo
 
-É obrigatório a utilização dos seguintes:
+Quando achar que terminou, envie-nos por e-mail:
 
-- React
-- MaterialUI
-- styled-components
-
-No mais, fique a vontade para utilizar outras ferramentas que desejar.
-
-## Diferenciais
-
-- Criar issues e resolvê-las a partir de pull requests
-- Documentação no código
-- Componentes reutilizáveis
-- Criação de servidor para os mocks da tela
-- Usabilidade e feedback para o usuário no carregamento da consulta
-- Seguir algum Javascript Style Guide
-- Layout responsivo (seja criativo!)
-
-## Pronto para começar o desafio?
-
-- Faça um "fork" desse repositório na sua conta do Github
-- Crie uma branch com o seu nome e sobrenome ex: `fernanda-henriques`
-- Após completar o desafio, crie um "pull request" nesse repositório comparando a sua branch com a master
-- Receberemos uma notificação do seu pull request, faremos a avaliação da sua solução e entraremos em contato.
-
-## FAQ
-
-- Posso usar o create-react-app para completar o desafio?
-  **Sim, você pode usar qualquer cli para criar seu projeto**
-- Preciso necessariamente fazer um fork do projeto?
-  **Sim, para que possamos saber quanto tempo você levou para executar o desafio**
-
-- Tenho mais dúvidas, com quem posso entrar em contato?
-  **Entre em contato com [Ricardo Castro](https://github.com/Lorenhaim) (Tech Lead)**
-
-**Boa sorte.** 🚀
-
-
-Esse desafio é baseado no desafio original da [Agrotis] (https://github.com/agrotis-io/desafio-front)
+- Um link para um **repositório GitHub privado** com um acesso de convite para \[@Lorenhaim\] (https://github.com/Lorenhaim)
+- Uma **demonstração online** do aplicativo (a versão gratuita do Netlify/heroku/etc é altamente recomendada 😉️)
